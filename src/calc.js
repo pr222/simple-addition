@@ -20,6 +20,8 @@
 export function addNumbers () {
   const firstNumber = 12
   const secondNumber = 30
-
   // TODO: Write your code here.
+  // const result = firstNumber + secondNumber
+  // return result
+  return firstNumber + secondNumber
 }
